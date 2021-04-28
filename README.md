@@ -1,4 +1,4 @@
 # CLI
 Vim, Bash, Shortcuts
 
-![Vim Demo](Misc/blob/master/before_2.png)
+![Vim Demo](Misc/blob/main/before_2.png)
