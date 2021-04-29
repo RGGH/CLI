@@ -13,3 +13,6 @@
 ### Add text before
 
   :norm i before_text 
+  
+  
+https://github.com/RGGH/Misc/blob/master/com-vim.png
