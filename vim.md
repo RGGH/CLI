@@ -16,3 +16,7 @@
   
   
 https://github.com/RGGH/Misc/blob/master/com-vim.png
+
+## Edit file on remote host
+  
+  vim scp://pi@pi4/file1806.txt
